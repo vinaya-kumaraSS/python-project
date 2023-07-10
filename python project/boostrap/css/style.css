@@ -1,0 +1,42 @@
+html{
+    scroll-behavior: smooth;
+}
+.bg-teal , .bg-teal{
+    background-color: #27e1b9 !important;
+}
+.text-teal{
+    color:#21d6a3 !important;
+}
+/*alvasLogo*/
+.alvasLogo{
+    height: 40px;
+    width: 40px;
+}
+/*profile nav bar*/
+profile{
+    border-radius: 50%;
+    width: 30px;
+    border: 2px;
+    float: right;
+    margin-left: 1450px;
+}
+.navbar{
+    background:white;
+}
+
+/*road map block*/
+#roadmap_icon{
+    display: flex;
+    list-style:none;
+}
+#roadmap_icon i{
+    color: #ffae00;
+    font-size: 25px;
+    margin-top: 1px;
+}
+#roadmap_background{
+    background-image: linear-gradient(to right, #b6fbff, #83a4d4);
+}
+#roadmap_background p{
+    padding: 20px;
+}
